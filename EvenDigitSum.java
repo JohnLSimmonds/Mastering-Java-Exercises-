@@ -8,11 +8,11 @@ NOTE:
 
 *****************************************************************************CODE**********************************************************************************/
 
-public class EvenDigtSum {
+public class EvenDigitSum {
 
   public static void main(String [] args){
   
-    System.out.println(getEvenDigitSum(number: 252));
+    System.out.println(getEvenDigitSum(252));
   
   }
   public static int getEvenDigitSum(int number) {

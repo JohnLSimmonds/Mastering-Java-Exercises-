@@ -28,12 +28,10 @@ public class BarkingDog {
       else if (hourOfDay < 8 || hourOfDay >  22) {
         return true;
       }
-      else {
-        return false;
-      }
-      else {
-        return false;
-      }
+      // else {
+      //   return false;
+      // }
     }
+    return false;
   }
 }
